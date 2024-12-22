@@ -1,0 +1,40 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables and virtual environment
+.env
+.venv/
+*.env
+
+# IDE and editor settings
+.vscode/
+*.idea/
+*.sublime*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Streamlit and temporary files
+.streamlit/
+
+# Logs and debug files
+*.log
+*.pid
+*.seed
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dependencies
+*.lock
+
+# System-specific files
+*.swp
+*.bak
+*.orig
+*.tmp
+
